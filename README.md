@@ -4,7 +4,7 @@ Welcome to this specialized repository dedicated to custom shaders designed for 
 Important Note: Prior to replacing any original shaders with the custom versions available here, it is imperative to create backup copies of the originals to prevent any unintended loss of data.
 
 Featured Shader: Enhanced Shadow Mapping and Dynamic Lighting for Halo 2
-One of my standout shaders aims to significantly improve the shadow mapping and dynamic lighting within Halo 2. This shader employs advanced techniques to deliver more realistic and visually pleasing results.
+aims to significantly improve the shadow mapping and dynamic lighting within Halo 2. This shader employs advanced techniques to deliver more realistic and visually pleasing results.
 
 Technical Specifications:
 Texture Sampling: Utilizes DirectX 11's DX11_tex2Dproj function for precise texture sampling, a foundational element in computer graphics.
