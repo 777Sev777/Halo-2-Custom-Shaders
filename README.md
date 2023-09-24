@@ -23,7 +23,6 @@ Optimization: The shader is optimized for a shadow map resolution of 1024x1024, 
 
 By integrating these techniques, this shader offers a substantial improvement over the default shadow and lighting systems in Halo 2, providing a more Viable use for dynamic lights in both gameplay and cinematics.
 
-If you's like to learn more about the techniques listed above here are some useful papers and sites:
 
 
 
