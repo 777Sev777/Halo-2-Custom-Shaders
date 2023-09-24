@@ -7,7 +7,7 @@ Featured Shader: Enhanced Shadow Mapping and Dynamic Lighting for Halo 2
 aims to significantly improve the shadow mapping and dynamic lighting within Halo 2. This shader employs advanced techniques to deliver more realistic and visually pleasing results.
 
 Technical Specifications:
-Texture Sampling: Utilizes DirectX 11's DX11_tex2Dproj function for precise texture sampling, a foundational element in computer graphics.
+Texture Sampling: Utilizes DirectX 11's DX11_tex2Dproj function for precise texture sampling.
 
 Shadow Mapping: Ive Implemented a 5x5 Percentage Closer Filtering (PCF) to produce softer, more natural-looking shadows. This technique is particularly effective in mitigating aliasing artifacts commonly associated with shadow mapping:
 
