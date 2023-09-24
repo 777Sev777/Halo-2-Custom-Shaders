@@ -1,5 +1,5 @@
 # Halo-2-Custom-Shaders
-Welcome to this specialized repository dedicated to custom shaders designed for the Halo 2 Editing Kit (H2EK). This platform serves as a collaborative space for shader testing, feedback collection, and bug reporting. While the repository currently features a single shader, I have plans for extensive expansion into other visual effects the near future. But my immediate focus is on advancing shadow mapping techniques, after which we will move into other shader types.
+Welcome to this specialized repository dedicated to custom shaders designed for the Halo 2 Editing Kit (H2EK). This platform serves as a collaborative space for shader testing, feedback collection, and bug reporting. While the repository currently features a single shader, I have plans for extensive expansion into other visual effects the near future. But my immediate focus is on advancing shadow mapping techniques, after which I will move into other shader types.
 
 Important Note: Prior to replacing any original shaders with the custom versions available here, it is imperative to create backup copies of the originals to prevent any unintended loss of data.
 
