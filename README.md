@@ -42,7 +42,7 @@ Depth Biasing: Incorporates a float bias of approximately 0.0015 to minimize sel
 
 Optimization: The shader is optimized for a shadow map resolution of 1024x1024, ensuring a balance between performance and visual fidelity.
 
-By integrating these techniques, this shader offers a substantial improvement over the default shadow and lighting systems in Halo 2, providing a more Viable use for dynamic lights in both gameplay and cinematics.
+By integrating these techniques, this shader offers a substantial improvement over the default dynamic shadow and lighting systems in Halo 2, providing a more Viable use for dynamic lights in both gameplay and cinematics.
 
 
 Dynamic Lighting Documentation and Best Practices v1.0
