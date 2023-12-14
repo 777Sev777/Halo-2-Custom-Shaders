@@ -84,7 +84,7 @@ Scripting and Trigger Volumes: Employ scripting to manage dynamic lights, removi
 4K Resolution Advisory: High-resolution settings such as 4K can lead to performance issues. Operating at 1080p or using a high-end machine for 4K is recommended.
 
 
-7. chieving Sharp Shadows
+7. Achieving Sharp Shadows
 
 Light Size and FOV for Sharpness: Utilize smaller lights (0.5x1) with a FOV of 10-60 for sharper shadows. Adjust the filtering for the desired look.
 
