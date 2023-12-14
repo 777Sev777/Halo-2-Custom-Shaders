@@ -88,8 +88,6 @@ Scripting and Trigger Volumes: Employ scripting to manage dynamic lights, removi
 
 Light Size and FOV for Sharpness: Utilize smaller lights (0.5x1) with a FOV of 10-60 for sharper shadows. Adjust the filtering for the desired look.
 
-Shader Technology: This shader, being a "300tap" shader as opposed to the standard "3tap," samples the shadow map over 300 times, reducing shadow aliasing and enhancing visual appeal.
-
 As you dive into using these dynamic lighting techniques, remember your input is invaluable in that process. and we encourage experimentation to get the most out of it
 
 I'm genuinely excited to see how you'll use these tools. 
