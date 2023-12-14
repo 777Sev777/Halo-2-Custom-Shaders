@@ -45,6 +45,53 @@ Optimization: The shader is optimized for a shadow map resolution of 1024x1024, 
 By integrating these techniques, this shader offers a substantial improvement over the default shadow and lighting systems in Halo 2, providing a more Viable use for dynamic lights in both gameplay and cinematics.
 
 
+Dynamic Lighting Documentation and Best Practices v1.0
+
+1. Introduction
+This document provides guidance on optimizing dynamic lighting within game scenes. It is crucial to understand that this is intended exclusively for dynamic lights, this shader is NOT designed to replace Lightmapping.
+
+2. Fundamental Settings for Dynamic Lights
+
+Shader Activation: Ensure the Light tag is set to 3tap. If it is set to 1tap, the shader will remain inactive.
+
+Light Framerate Killer: Enable the "Light Framerate Killer" within the Light tag.
+
+Filtering Level Adjustment: Modify the "fall off" setting in Sapien for each light to tailor the filtering levels.
+
+3. Shadow Management in Large Areas
+
+Optimizing Shadow Casting: In scenes with extensive instance geometry, I recommend disabling shadow casting on environment in the light tag to prevent visual inconsistencies,
+such as disappearing shadows. 
+
+Adjusting Bounding Radius: If shadows of objects like crates, scenery, or bipeds vanish at certain angles,
+increment their "Bounding Radius" by 1-2 units to rectify the issue.
+
+4. Considerations for Light Size and Field of View
+
+Balance Between Size and Shadow Quality: Larger lights may reduce the shadow quality of smaller objects due to the stretching of shadow maps. This phenomenon is akin to enlarging a 2D image. 
+
+Recommended Lighting Strategy: For larger environments, it is advised to use multiple moderately large lights rather than a single, oversized light source. This approach maintains shadow integrity, though experimentation is encouraged.
 
 
+5. Engine Limitations and Workarounds
+
+Dynamic Light Limit: The engine supports a maximum of 32 dynamic lights in a BSP, but creative techniques can extend this limit.
+
+Scripting and Trigger Volumes: Employ scripting to manage dynamic lights, removing them when exiting an area and adding new ones upon entry. Other methods to circumvent this limitation should also be explored.
+
+6. High-Resolution Performance
+
+4K Resolution Advisory: High-resolution settings such as 4K can lead to performance issues. Operating at 1080p or using a high-end machine for 4K is recommended.
+
+
+7. chieving Sharp Shadows
+
+Light Size and FOV for Sharpness: Utilize smaller lights (0.5x1) with a FOV of 10-60 for sharper shadows. Adjust the filtering for the desired look.
+
+Shader Technology: This shader, being a "300tap" shader as opposed to the standard "3tap," samples the shadow map over 300 times, reducing shadow aliasing and enhancing visual appeal.
+
+As you dive into using these dynamic lighting techniques, remember your input is invaluable in that process. and we encourage experimentation to get the most out of it
+
+I'm genuinely excited to see how you'll use these tools. 
+Your support and feedback mean the world to me and have been crucial in getting us to this point. So, thank you for downloading v1.0 of this shader, for sticking with me, and for being part of this project. I can't wait to see the amazing things you'll achieve with this new resource.
 
