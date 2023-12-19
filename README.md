@@ -27,8 +27,6 @@ includes a bias term to minimize self-shadowing artifacts and uses a 5-tap
 kernel for the PCF combined with 12 Poisson Disk samples, ensuring a balanced 
 compromise between performance and visual quality:
 
-![4235634562](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/d4ad5d52-16c8-4be0-92e9-312ede8e31da)
-
 ![sdffsfdssssssssssssss4](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/51d2c163-da4a-419c-880d-ba13ed9126cc)
 
 ![image](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/36a58644-b950-45a9-8664-41eb7c49d8aa)
