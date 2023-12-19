@@ -33,7 +33,7 @@ compromise between performance and visual quality:
 
 ![image](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/36a58644-b950-45a9-8664-41eb7c49d8aa)
 
-![jnkhbjhbhbhb](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/d746d3b1-13b2-4f33-807c-4ddd659806e7)
+![56](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/7eccdb21-1f7c-47a8-8261-b4038e7c261c)
 
 Depth Biasing: Incorporates a float bias of approximately 0.0015 to minimize self-shadowing artifacts especially for characters faces. This bias term is crucial for avoiding the so-called "Peter Pan" effect, where shadows appear to float above the surfaces they should be attached to.
 
