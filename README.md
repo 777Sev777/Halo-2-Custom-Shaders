@@ -27,11 +27,9 @@ includes a bias term to minimize self-shadowing artifacts and uses a 5-tap
 kernel for the PCF combined with 12 Poisson Disk samples, ensuring a balanced 
 compromise between performance and visual quality:
 
-![sdffsfdssssssssssssss4](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/51d2c163-da4a-419c-880d-ba13ed9126cc)
-
-![image](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/36a58644-b950-45a9-8664-41eb7c49d8aa)
-
 ![56](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/7eccdb21-1f7c-47a8-8261-b4038e7c261c)
+![288897878-36a58644-b950-45a9-8664-41eb7c49d8aa](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/c60e7800-5bfd-4373-aed8-669f1bf4b296)
+
 
 Depth Biasing: Incorporates a float bias of approximately 0.0015 to minimize self-shadowing artifacts especially for characters faces. This bias term is crucial for avoiding the so-called "Peter Pan" effect, where shadows appear to float above the surfaces they should be attached to.
 
