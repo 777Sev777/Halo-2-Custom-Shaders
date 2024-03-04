@@ -1,7 +1,7 @@
 # Halo-2-Custom-Shaders
 Welcome to this specialized repository dedicated to custom shaders designed for the Halo 2 Editing Kit (H2EK). This platform serves as a collaborative space for shader testing, feedback collection, and bug reporting. 
 
-Important Note: Prior to replacing any original shaders with the custom versions available here, it is imperative to create backup copies of the originals to prevent any unintended loss of data.
+Important Note: Prior to replacing any original shaders with the custom versions available here, it is imperative to create backup copies of the originals to prevent any unintended loss of data. - THIS IS NOT A REPLACEMENT OF LIGHTMAPPING
 
 Featured Shader: Enhanced Shadow Mapping and Dynamic Lighting for Halo 2
 aims to significantly improve the shadow mapping and dynamic lighting within Halo 2. This shader employs advanced techniques to deliver more realistic and visually pleasing result.
