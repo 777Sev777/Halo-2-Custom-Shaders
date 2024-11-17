@@ -12,6 +12,7 @@ Digsite Halo 2 E3 2003 Tagset:
 https://github.com/digsite/H2E3
 
 1tap/Combined_0 = Very soft, less accurate shadowing. perfect for soft lighting
+
 3tap/Combined_1 = Very Sharp, Stencil-like shadowing, more dramatic shadows and stylized lighting
 
 
