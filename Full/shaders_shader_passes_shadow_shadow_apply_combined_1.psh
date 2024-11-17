@@ -1,5 +1,5 @@
 ; compiled from tags\rasterizer\pixel_shaders_dx9\shaders_shader_passes_shadow_shadow_apply_combined_1.txt
-; //SEV's Reverse
+; 
 #const C2.a = $shadow_fade
 // Shader Build Current - Mid-High Range, Sep, 27th 2024.
 
@@ -32,7 +32,7 @@ float4 main(
     float bias = 0.00015;  // Dont Touch my Bias!
 
 
-   // offset's for your enjoyment
+   
    // Poisson Disk Offsets
     float2 poissonDisk[12] = {
         float2(-0.94201624, -0.39906216),
@@ -70,14 +70,14 @@ float4 main(
     }
 
     // Adjust shadow transparency
-    float fadeFactor = c2.a * 10.0; // Reduce transparency effect by scaling down the fade factor - Dont go too high or too low, you'll get sick.
+    float fadeFactor = c2.a * 10.0; // Reduce transparency effect by scaling down the fade factor
     r0 = fadeFactor * r0 + (5.0 - fadeFactor);
 
-    // Dont Touch this
+    
     float4 tex3 = DX11_tex2Dproj(s1, tc3);
     r0 *= tex3.bbbb;
 
-    // I mean it, dont touch this...
+    
     if (color0.a <= 0.0) {
         r0 = 0;
     }
