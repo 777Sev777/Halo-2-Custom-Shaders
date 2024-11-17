@@ -1,4 +1,4 @@
-; compiled from tags\rasterizer\pixel_shaders_dx9\shaders_shader_passes_shadow_shadow_apply_combined_1.txt
+; compiled from tags\rasterizer\pixel_shaders_dx9\shaders_shader_passes_shadow_shadow_apply_combined_0.txt
 ;
 #const C2.a = $shadow_fade
 
