@@ -17,8 +17,7 @@ Main Branch:
 
 3tap/Combined_1 = Very soft, less accurate shadowing. perfect for soft lighting 
 
-Note: The E3 version of the Shaders are specifically for the E3 2003 Tagset, as the effects are flipped. IE: 1tap/Combined_0 is sharp rather than soft shadowing. 
-
+Note: The E3 version of the Shaders are specifically for the E3 2003 Tagset. 
 
 ![56](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/7eccdb21-1f7c-47a8-8261-b4038e7c261c)
 ![3424234](https://github.com/user-attachments/assets/de344feb-9ea4-43dc-96e7-c140ed5c36a2)
