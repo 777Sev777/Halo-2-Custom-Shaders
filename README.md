@@ -26,4 +26,6 @@ Note: The E3 version of the Shaders are specifically for the E3 2003 Tagset. Not
 ![32443242](https://github.com/user-attachments/assets/1f93e662-e318-4a4f-8ead-1acb6ca5b93b)
 ![6543234](https://github.com/user-attachments/assets/bb8f1236-49de-4022-a5c0-9aefd4460aad)
 ![84746565](https://github.com/user-attachments/assets/a4dfa5dd-f3bc-4a47-ad0c-502320d48f7e)
+![43243243](https://github.com/user-attachments/assets/f63aca55-c921-4d0e-8e81-48fe2a59807f)
+![90906956](https://github.com/user-attachments/assets/7503bf9e-bcb7-4b3f-b870-76a579757563)
 
