@@ -1,7 +1,7 @@
 # Halo-2-Custom-Shaders
 Important Note: Prior to replacing any original shaders with the custom versions available here, it is a good idea to create backup copies of the originals to prevent any unintended loss of data. - THIS IS NOT A REPLACEMENT OF LIGHTMAPPING
 
-Enhanced Shadow Mapping and Dynamic Lighting for Halo 2 to significantly improve the shadow mapping and dynamic lighting within Halo 2. 
+Enhanced Shadow Mapping and Dynamic Lighting for Halo 2
 
 Featured on The Digsite E3 2003 Halo 2 Demo restoration:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3360515088
