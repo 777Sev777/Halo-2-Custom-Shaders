@@ -11,9 +11,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3360515088
 Digsite Halo 2 E3 2003 Tagset:
 https://github.com/digsite/H2E3
 
-1tap/Combined_0 = Very soft, less accurate shadowing. perfect for soft lighting
+1tap/Combined_0 = Very Sharp, Aliasing-free, Stencil-like shadowing. more dramatic shadows and stylized lighting
 
-3tap/Combined_1 = Very Sharp, Stencil-like shadowing, more dramatic shadows and stylized lighting
+3tap/Combined_1 = Very soft, less accurate shadowing. perfect for soft lighting Very Sharp, Stencil-like shadowing, more dramatic shadows and stylized lighting
 
 
 ![56](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/7eccdb21-1f7c-47a8-8261-b4038e7c261c)
