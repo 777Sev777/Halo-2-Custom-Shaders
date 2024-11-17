@@ -15,6 +15,8 @@ https://github.com/digsite/H2E3
 
 3tap/Combined_1 = Very soft, less accurate shadowing. perfect for soft lighting 
 
+Note: For E3, these are switched. Combined_0 is soft and Combined_1 is Sharp
+
 
 ![56](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/7eccdb21-1f7c-47a8-8261-b4038e7c261c)
 ![3424234](https://github.com/user-attachments/assets/de344feb-9ea4-43dc-96e7-c140ed5c36a2)
