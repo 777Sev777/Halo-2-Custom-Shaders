@@ -11,7 +11,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3360515088
 Digsite Halo 2 E3 2003 Tagset:
 https://github.com/digsite/H2E3
 
-Main Branch:
+Retail:
 
 1tap/Combined_0 = Very Sharp, Aliasing-free, Stencil-like shadowing. more dramatic shadows and stylized lighting
 
