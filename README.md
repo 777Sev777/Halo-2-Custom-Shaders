@@ -3,6 +3,8 @@ Important Note: Prior to replacing any original shaders with the custom versions
 
 Enhanced Shadow Mapping and Dynamic Lighting for Halo 2
 
+How to install: place both of either performance or full shaders to this path - tags/rasterizer/pixel_shadersDX9
+
 Featured on The Digsite E3 2003 Halo 2 Demo restoration:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3360515088
 
