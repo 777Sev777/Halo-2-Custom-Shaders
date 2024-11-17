@@ -20,15 +20,12 @@ Main Branch:
 Note: The E3 version of the Shaders are specifically for the E3 2003 Tagset. 
 
 ![56](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/7eccdb21-1f7c-47a8-8261-b4038e7c261c)
-![3424234](https://github.com/user-attachments/assets/de344feb-9ea4-43dc-96e7-c140ed5c36a2)
+![image](https://github.com/user-attachments/assets/379bdcb9-8655-4ea8-847b-b09818e75ae4)
+![765456789](https://github.com/user-attachments/assets/e0e8ffd9-c03e-47e7-9404-dd3fcebb71f4)
 ![32443242](https://github.com/user-attachments/assets/1f93e662-e318-4a4f-8ead-1acb6ca5b93b)
 ![6543234](https://github.com/user-attachments/assets/bb8f1236-49de-4022-a5c0-9aefd4460aad)
 ![download](https://github.com/user-attachments/assets/76bb06b6-2adb-4013-ae4d-1c6d9e8cda45)
 ![Hog](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/9edf4781-5963-4904-b170-363c31214eb5)
-![ChainGun_Hog](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/9a17200c-94c9-443b-907a-63245fa73a6d)
-![BR_Magazine_2](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/070e4a9d-84ee-4646-af89-e30a99d907fe)
-![SMG_2](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/6692668e-0769-43d4-84e0-7d187ca0673d)
-![SMG_1](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/dae93273-9f77-4de3-9cd7-479340f226d6)
 ![Mongoose_2](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/7bc9363d-f263-45e4-baae-1bddb108dc26)
 ![Mongoose_1](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/44c317e9-965d-4016-804e-a4753efdd3d0)
 ![Hog_3](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/1bde6309-ee62-454c-b743-e49d65ddcba8)
