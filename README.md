@@ -1,22 +1,20 @@
 # Halo-2-Custom-Shaders
 Important Note: Prior to replacing any original shaders with the custom versions available here, it is a good idea to create backup copies of the originals to prevent any unintended loss of data. - THIS IS NOT A REPLACEMENT OF LIGHTMAPPING
 
-Enhanced Shadow Mapping and Dynamic Lighting for Halo 2 to significantly improve the shadow mapping and dynamic lighting within Halo 2. This shader employs advanced techniques to deliver more realistic and visually pleasing result.
+Enhanced Shadow Mapping and Dynamic Lighting for Halo 2 to significantly improve the shadow mapping and dynamic lighting within Halo 2. 
 
-Shadow Mapping: Description:
-This advanced HLSL shader combines two prominent techniques for shadow mapping: 
-Percentage-Closer Filtering (PCF) and Poisson Disk Sampling. PCF is used to 
-smooth out the hard edges often found in basic shadow mapping, making the 
-shadows look more natural. Poisson Disk Sampling adds a randomization aspect 
-to the shadow edges, making them appear softer and more realistic. The shader 
-includes a bias term to minimize self-shadowing artifacts and uses a 5-tap 
-kernel for the PCF combined with 12 Poisson Disk samples, ensuring a balanced 
-compromise between performance and visual quality:
+Featured on The Digsite E3 2003 Halo 2 Demo restoration:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3360515088
+
+Digsite Halo 2 E3 2003 Tagset:
+https://github.com/digsite/H2E3
+
 
 ![56](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/7eccdb21-1f7c-47a8-8261-b4038e7c261c)
-![288897878-36a58644-b950-45a9-8664-41eb7c49d8aa](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/c60e7800-5bfd-4373-aed8-669f1bf4b296)
-![image](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/dd040878-6b0b-4734-be0d-750a38841570)
-![Hog_2](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/eea0e6a8-5fe9-49ef-93c3-058c27322c54)
+![3424234](https://github.com/user-attachments/assets/de344feb-9ea4-43dc-96e7-c140ed5c36a2)
+![32443242](https://github.com/user-attachments/assets/1f93e662-e318-4a4f-8ead-1acb6ca5b93b)
+![6543234](https://github.com/user-attachments/assets/bb8f1236-49de-4022-a5c0-9aefd4460aad)
+![download](https://github.com/user-attachments/assets/76bb06b6-2adb-4013-ae4d-1c6d9e8cda45)
 ![Hog](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/9edf4781-5963-4904-b170-363c31214eb5)
 ![ChainGun_Hog](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/9a17200c-94c9-443b-907a-63245fa73a6d)
 ![BR_Magazine_2](https://github.com/777Sev777/Halo-2-Custom-Shaders/assets/134644571/070e4a9d-84ee-4646-af89-e30a99d907fe)
