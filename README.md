@@ -1,6 +1,8 @@
 # Halo-2-Custom-Shaders
 Important Note: Prior to replacing any original shaders with the custom versions available here, it is a good idea to create backup copies of the originals to prevent any unintended loss of data. - THIS IS NOT A REPLACEMENT OF LIGHTMAPPING
 
+feel free to check the Issues tab to see existing bugs.
+
 Enhanced Shadow Mapping and Dynamic Lighting for Halo 2
 
 How to install: place both of either performance or full shaders to this path - tags/rasterizer/pixel_shadersDX9
