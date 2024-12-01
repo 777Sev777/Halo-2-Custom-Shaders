@@ -1,3 +1,5 @@
+All shaders are a WIP
+
 # Halo-2-Custom-Shaders
 Important Note: Prior to replacing any original shaders with the custom versions available here, it is a good idea to create backup copies of the originals to prevent any unintended loss of data. - THIS IS NOT A REPLACEMENT OF LIGHTMAPPING
 
