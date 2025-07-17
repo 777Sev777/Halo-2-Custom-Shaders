@@ -77,7 +77,7 @@ float4 main(
     r0 *= tex3.bbbb;
 
     
-    if (color0.a <= 0.0) {
+    if (color0.a <= 0.5) {
         r0 = 0;
     }
 
